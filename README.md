@@ -1,4 +1,4 @@
-# Project-1
+# Project-1 : Automated Billing in EV Charging Station
 
 Electric vehicle sales are increasing as of 2023, and over the next five years, the EV will completely change the automotive sector. However, the charging infrastructure needs to be urgently improved because it is not up to par.
 
